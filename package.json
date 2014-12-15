@@ -1,0 +1,22 @@
+{
+  "name": "@sathishkumarso/sathishpoc",
+  "version": "1.0.0",
+  "description": "this is trye",
+  "main": "yep.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sathishkumarso/sathishpoc"
+  },
+  "keywords": [
+    "testserver"
+  ],
+  "author": "sathishkumars",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sathishkumarso/sathishpoc/issues"
+  },
+  "homepage": "https://github.com/sathishkumarso/sathishpoc"
+}
